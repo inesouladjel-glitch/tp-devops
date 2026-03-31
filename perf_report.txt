@@ -1,0 +1,17 @@
+VERSION v1.0
+Requests/sec: 1183
+Average: 0.0083
+Fastest: 0.0040
+Slowest: 0.0319
+
+VERSION v1.1
+Requests/sec: 1070
+Average: 0.0091
+Fastest: 0.0034
+Slowest: 0.0384
+
+VERSION v1.2
+Requests/sec: 84
+Average: 0.1178
+Fastest: 0.1068
+Slowest: 0.1582
